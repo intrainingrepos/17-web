@@ -1,0 +1,25 @@
+{
+  "name": "17-oauth",
+  "version": "1.0.0",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB =================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niesssiobhan/17-oauth.git"
+  },
+  "author": "siobhan, jared, fletcher, tanner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niesssiobhan/17-oauth/issues"
+  },
+  "homepage": "https://github.com/niesssiobhan/17-oauth#readme",
+  "dependencies": {
+    "eslint": "^5.12.0",
+    "express": "^4.16.4",
+    "node": "^11.6.0"
+  },
+  "devDependencies": {}
+}
